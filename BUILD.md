@@ -8,6 +8,7 @@ In order to build ml.lib, a C++11 standard compliant compiler is required. This 
 
 ## Linux
 - Change directory to the "build" directory
+- import grt and flext submodules : git submodule update --init
 - Type `make`
 
 
